@@ -91,7 +91,14 @@ section{
 
 
 /* home start */
-
+.cv{
+    background-color: #035c25;
+    border: none;
+    width: 100px;
+    height: 50px;
+    color: white;
+    
+}
 .home{
     height: 100vh;
    display: flex;

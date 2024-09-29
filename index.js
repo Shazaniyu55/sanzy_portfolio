@@ -53,7 +53,7 @@ app.post('/send-email', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Server running at PORT ${PORT}`);
+    console.log(`Server running at PORT http://localhost:${PORT}`);
 });
 
 module.exports = app;

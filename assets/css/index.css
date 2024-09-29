@@ -390,7 +390,7 @@ input[type=text], select, textarea {
     bottom: 20px;
     right: 20px;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #035c25;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -518,7 +518,7 @@ input[type=text], select, textarea {
     display: flex;
     cursor: pointer;
     font-size: 2.2rem;
-    background: #ffffff;
+    background: #06a313;
     align-items: center;
     justify-content: center;
     border-radius: 50%;

@@ -34,8 +34,8 @@ app.post('/send-email', (req, res) => {
 
     // Setup email data
     let mailOptions = {
-        from: 'shaazaniyu@gmail.com', // Sender address
-        to: 'zoeadoree33@gmail.com, shazaniyu@gmail.com', // List of recipients
+        from: 'shazaniyu@gmail.com', // Sender address
+        to: 'info23nexatech@gmail.com shazaniyu@gmail.com', // List of recipients
         subject: 'JOB REQUEST', // Subject line
         text: `Name: ${name}\nEmail: ${email}\nMessage: ${message}`, // Plain text body
         // You can add HTML to the email if needed
